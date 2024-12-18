@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jarvis/ros2_ws/build/yolo_sub",
+        "/home/jarvis/ros2_ws/install/yolo_sub/lib/python3.12/site-packages",
+        "/home/jarvis/ros2_ws/build/motorr",
+        "/home/jarvis/ros2_ws/install/motorr/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jarvis/ros2_ws/build/yolo_sub",
+        "/home/jarvis/ros2_ws/install/yolo_sub/lib/python3.12/site-packages",
+        "/home/jarvis/ros2_ws/build/motorr",
+        "/home/jarvis/ros2_ws/install/motorr/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
