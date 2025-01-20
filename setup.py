@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'pose_sub = yolo_sub.pose_sub:main',
-            'object_sub = yolo_sub.object_sub:main'
+            'object_sub = yolo_sub.object_sub:main',
+            'object_sub_pub = yolo_sub.obj_sub_pub:main'
         ],
     },
 )
